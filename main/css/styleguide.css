@@ -1,0 +1,96 @@
+:root { 
+  --abbey: #495057;
+  --black: #000000;
+  --black-2: #0000002d;
+  --black-3: #00000026;
+  --black-4: #00000008;
+  --black-5: #00000020;
+  --blue-ribbon: #0d6efd;
+  --granite-gray: #666666;
+  --mercury: #dee2e6;
+  --mischka: #ced4da;
+  --pale-sky: #6c757d;
+  --shark: #212529;
+  --sonic-silver: #777777;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 16px;
+  --font-size-xl: 56px;
+ 
+  --font-family-helvetica_neue-bold: "Helvetica Neue-Bold", Helvetica;
+  --font-family-helvetica_neue-light: "Helvetica Neue-Light", Helvetica;
+  --font-family-helvetica_neue-medium: "Helvetica Neue-Medium", Helvetica;
+  --font-family-helvetica_neue-regular: "Helvetica Neue-Regular", Helvetica;
+}
+.helveticaneue-regular-normal-shark-16px {
+  color: var(--shark);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-regular-normal-blue-ribbon-16px {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-regular-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-bold-shark-16px {
+  color: var(--shark);
+  font-family: var(--font-family-helvetica_neue-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helveticaneue-regular-normal-pale-sky-16px {
+  color: var(--pale-sky);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-light-abbey-56px {
+  color: var(--abbey);
+  font-family: var(--font-family-helvetica_neue-light);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.helveticaneue-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-helvetica_neue-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.helveticaneue-medium-shark-20px {
+  color: var(--shark);
+  font-family: var(--font-family-helvetica_neue-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.helveticaneue-medium-pale-sky-16px {
+  color: var(--pale-sky);
+  font-family: var(--font-family-helvetica_neue-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
